@@ -1,0 +1,8 @@
+{
+	"private": true,
+	"main": "app.js",
+	"type": "module",
+	"dependencies": {
+		"demofile": "^1.3.1"
+	}
+}
